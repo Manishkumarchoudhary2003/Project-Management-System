@@ -30,3 +30,9 @@ Here are some sample endpoints you can use:
 - **PUT /projects/update/{id}:** Update an existing project.
 - **DELETE /projects/delete/{id}:** Delete a project.
 
+
+
+## Unit Testing
+
+This project includes unit testing to ensure code reliability and functionality. You can find the unit tests in the `src/test` directory. Run `mvn test` to execute the unit tests.
+
