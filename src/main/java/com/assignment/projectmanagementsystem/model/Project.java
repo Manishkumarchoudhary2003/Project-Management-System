@@ -40,7 +40,6 @@ public class Project {
     }
 
 
-
     public Long getId() {
         return id;
     }
