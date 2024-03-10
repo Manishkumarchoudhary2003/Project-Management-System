@@ -8,9 +8,9 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/project-management-system.git
+   git clone https://github.com/ManishKumarChoudhary2003/project-management-system.git
    cd project-management-system
-   clean install
+   mvn clean install 
    mvn spring-boot:run
 
 
